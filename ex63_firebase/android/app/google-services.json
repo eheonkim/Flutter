@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920605619471",
+    "project_id": "flutter-exam-924ab",
+    "storage_bucket": "flutter-exam-924ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920605619471:android:96e8664edc30c637e7fa7a",
+        "android_client_info": {
+          "package_name": "com.study.firebase.core"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5wMC1zM4EIPpVTWR1wnOaapnK9iyMpFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
